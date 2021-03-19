@@ -1,5 +1,5 @@
 ---
-title: 我的第一篇博客-TEST
+title: 我的第一篇博客
 date: 2020-11-04 10:29:43
 tag: Hexo
 ---
