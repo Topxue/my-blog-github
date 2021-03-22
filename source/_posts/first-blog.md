@@ -1,7 +1,7 @@
 ---
 title: 我的第一个Node项目(学习记录)
 date: 2021-03-19 15:16:10
-tags: Node、Koa、mysql、sequelize
+tags: Node
 categories:
   - Node
 ---
